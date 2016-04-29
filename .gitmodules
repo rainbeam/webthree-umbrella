@@ -24,7 +24,7 @@
 	branch = develop
 [submodule "webthree-helpers"]
 	path = webthree-helpers
-	url = https://github.com/ethereum/webthree-helpers
+	url = https://github.com/rainbeam/webthree-helpers
 	branch = develop
 [submodule "web3.js"]
 	path = web3.js
