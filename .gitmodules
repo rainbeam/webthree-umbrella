@@ -12,7 +12,7 @@
 	branch = develop
 [submodule "webthree"]
 	path = webthree
-	url = https://github.com/ethereum/webthree
+	url = https://github.com/rainbeam/webthree
 	branch = develop
 [submodule "libweb3core"]
 	path = libweb3core
